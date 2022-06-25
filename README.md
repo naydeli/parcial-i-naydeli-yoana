@@ -1,4 +1,4 @@
- # Examen Primer parcial <img src="imagenes/logo-uml.png" alt="UML">
+ # Examen Primer parcial <img src="imagenes/logo-uml.png">
 
  ## Autora
 
